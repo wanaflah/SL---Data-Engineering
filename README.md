@@ -1,4 +1,4 @@
-# Data Engineering - Self-Learning
+# Self-Learning : Data Engineering
 
 
 Hi! This is my personal repo for self-learning on Data Engineering related stuff
