@@ -17,7 +17,11 @@ class DB:
         return conn
     
     def select_top(self, conn):
-        query = "SELECT * FROM lending_data;"
+        query = "SELECT * FROM lending_data"
         df = pd.read_sql_query(query, con=conn)
         df = df.head()
         return df.to_dict()
+
+    def load_all(self, conn):
+        query = "SELECT * FROM lending_data"
+
