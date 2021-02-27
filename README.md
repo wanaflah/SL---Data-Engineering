@@ -11,5 +11,6 @@ Hi! This is my personal repo for self-learning on Data Engineering related stuff
 ### Planned
 - Structured Database
 - Unstructured Database
+- End to End ML Lifecycle
 
 P.S. : I am planning to mainly use Python/Jupyter Notebook
